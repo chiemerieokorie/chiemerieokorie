@@ -2,7 +2,6 @@
 - 👀 I’m interested in building products
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me emerieokorie@gmail.com
 
 <!---
 chiemerieokorie/chiemerieokorie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
