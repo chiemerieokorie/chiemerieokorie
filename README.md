@@ -21,7 +21,7 @@ I'm a seasoned software engineer with a passion for crafting innovative solution
 ### Let's Connect!
 Looking to collaborate on a project or just want to chat about tech? Feel free to reach out! Whether it's discussing the latest React release or brainstorming ideas for your next big venture, I'm always eager to connect with fellow developers and enthusiasts.
 
-- 💼 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/chiemerieokorie)  
+- 💼 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/chiemerie-okorie/)  
 
 ### Keep Calm and Keep Coding!
 Remember, the best code is not just functional, it's also elegant. Let's continue to build amazing things together and make a positive impact on the world, one line of code at a time.
