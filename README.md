@@ -14,7 +14,7 @@ I'm a seasoned software engineer with a passion for crafting innovative solution
 - 🧰 **Tools & Technologies**: Git, Docker, PostgreSQL, Firebase, AWS, Heroku
 
 ### What I'm Up To
-- 🌱 Currently diving deeper into serverless architecture and exploring the world of GraphQL.
+- 🌱 Currently diving deeper into Kubernetes and LLMs
 - 🚀 Working on exciting new projects that leverage the latest technologies to solve real-world problems.
 - 📚 Sharing my knowledge and experiences through blog posts and open-source contributions.
 
