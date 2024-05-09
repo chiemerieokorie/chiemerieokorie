@@ -10,7 +10,7 @@ I'm a seasoned software engineer with a passion for crafting innovative solution
 
 ### My Toolkit
 - 💻 **Languages**: JavaScript, Python, TypeScript
-- 🛠️ **Frameworks & Libraries**: React, React Native, Expo, Django, Redux, GraphQL
+- 🛠️ **Frameworks & Libraries**: React, NextJS React Native, Expo, Django, Redux, GraphQL
 - 🧰 **Tools & Technologies**: Git, Docker, PostgreSQL, Firebase, AWS, Heroku
 
 ### What I'm Up To
