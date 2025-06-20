@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Chiemerie, but you can call me Chief! 👑
 
 ### About Me
-I'm a seasoned software engineer with a passion for crafting innovative solutions using React, Expo/React Native, and Django. With over 5 years of hands-on experience in the tech industry, I thrive on pushing the boundaries of what's possible and creating seamless user experiences.
+I'm a seasoned software engineer with a passion for crafting innovative solutions using React, Expo/React Native, and Django. I thrive on pushing the boundaries of what's possible and creating seamless user experiences.
 
 ### What I Bring to the Table
 - **React Enthusiast**: I live and breathe React! Whether it's building dynamic web applications or sleek mobile interfaces with React Native, I'm always up for the challenge.
