@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Chiemerie, but you can call me Chief! 👑
+## 👋 Hey there, I'm Emery
 
 ### About Me
 I'm a seasoned software engineer with a passion for crafting innovative solutions using React, Expo/React Native, and Django. I thrive on pushing the boundaries of what's possible and creating seamless user experiences.
